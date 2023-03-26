@@ -1,16 +1,11 @@
-var tShirtPrice = 200;
-// c
-onsole.log(typeof tShirtPrice);
+var price = 100;
+console.log(typeof price);
 
-var tShirtPrice2 = '200';
-// console.log(typeof tShirtPrice2);
+var price = '100';
+console.log(typeof price);
 
-var isRaining = true;
-console.log(typeof isRaining);
-var isRomantic;
-// console.log(isRomantic);
+var isHappy = true;
+console.log(typeof isHappy);
 
-var today = new Date();
-console.log(typeof  today);
 
 
